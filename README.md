@@ -5,3 +5,4 @@ new line
 more line
 more
 one more
+last line
